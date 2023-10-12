@@ -64,7 +64,7 @@
 <body>
     <div class="img1">
 <p align='center'>
-<a href="https://www.linkedin.com/in/rishav-ranjan-7834231b8/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/pavan-kunte-2b856423a/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="5%" alt="Linkedin"></a>
 <a href="mailto:pavankunte18@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="5%" alt="Email"></a>
  
 	
